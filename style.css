@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 48px;
+}
+.banner-image {
+      background-image: url('img/bg.png');
+      background-size: cover;
+}
+.banner-title{
+    color: #FA804C;
+}
+.sp-text{
+    color: #363958;
+}
+.nav-item {
+    padding: 15px;
+    font-weight: bold;
+}
+.img-sec {
+    width: 50px;
+
+}
+.card {
+    border: none;
+    border-radius: 15px;
+}
+.card-img-top {
+    border: none;
+    border-radius: 15px;
+}
+.card-title{
+    font-size: 24px;
+}
+.card-text{
+    font-size: 14px;
+}
+.price{
+    color: #FA804C;
+    font-size: 22px;
+}
+.grid-title {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.grid-p .banner-p {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    font-size: 16px;
+}
